@@ -1,0 +1,11 @@
+<?php
+
+# Copyright (c) 2012 Alexey Shumkin
+# Licensed under the MIT license
+
+$s_plugin_ZipFiles_ = '';
+$s_plugin_ZipFiles_title = 'Show content of .zip-file attachments';
+$s_plugin_ZipFiles_description = 'Shows content of zipped attachments.';
+
+$s_plugin_ZipFiles_install_zip_extension = 'PHP "zip" extension must be installed to enable this functionality';
+

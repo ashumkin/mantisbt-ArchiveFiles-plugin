@@ -1,0 +1,10 @@
+<?php
+
+# Copyright (c) 2012 Alexey Shumkin
+# Licensed under the MIT license
+
+$s_plugin_ArchiveFiles_ = '';
+$s_plugin_ArchiveFiles_description = 'Базовый плагин для показа содержимого сжатых файлов';
+$s_plugin_ArchiveFiles_configuration = 'Конфигурация';
+$s_plugin_ArchiveFiles_update_configuration = 'Обновить';
+$s_plugin_ArchiveFiles_view_threshold = 'Уровень доступа для просмотра содержимого сжатых файлов';

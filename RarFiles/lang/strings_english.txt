@@ -1,0 +1,11 @@
+<?php
+
+# Copyright (c) 2012 Alexey Shumkin
+# Licensed under the MIT license
+
+$s_plugin_RarFiles_ = '';
+$s_plugin_RarFiles_title = 'Show content of .rar-file attachments';
+$s_plugin_RarFiles_description = 'Shows content of RAR-ed attachments.';
+
+$s_plugin_RarFiles_install_rar_extension = 'PHP "RAR" extension must be installed to enable this functionality';
+

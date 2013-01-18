@@ -1,0 +1,11 @@
+<?php
+
+# Copyright (c) 2012 Alexey Shumkin
+# Licensed under the MIT license
+
+$s_plugin_RarFiles_ = '';
+$s_plugin_RarFiles_title = 'Показ содержимого .rar-архивов';
+$s_plugin_RarFiles_description = 'Показ содержимого RAR-архивированных вложенных файлов';
+
+$s_plugin_RarFiles_install_rar_extension = 'Для использования этой возможности должно быть установлено расширение PHP "rar".';
+

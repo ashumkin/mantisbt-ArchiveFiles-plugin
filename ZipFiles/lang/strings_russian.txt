@@ -1,0 +1,11 @@
+<?php
+
+# Copyright (c) 2012 Alexey Shumkin
+# Licensed under the MIT license
+
+$s_plugin_ZipFiles_ = '';
+$s_plugin_ZipFiles_title = 'Показ содержимого .zip-архивов';
+$s_plugin_ZipFiles_description = 'Показ содержимого zip-архивированных вложенных файлов';
+
+$s_plugin_ZipFiles_install_zip_extension = 'Для использования этой возможности должно быть установлено расширение PHP "zip".';
+

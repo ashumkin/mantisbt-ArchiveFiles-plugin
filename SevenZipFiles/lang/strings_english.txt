@@ -1,0 +1,15 @@
+<?php
+
+# Copyright (c) 2012 Alexey Shumkin
+# Licensed under the MIT license
+
+$s_plugin_SevenZipFiles_ = '';
+$s_plugin_SevenZipFiles_title = 'Show content of .7z-file attachments';
+$s_plugin_SevenZipFiles_description = 'Shows content of 7zipped attachments.';
+$s_plugin_SevenZipFiles_configuration = 'Configuration';
+$s_plugin_SevenZipFiles_exec_path = 'Full path for 7z archive handler (7za)';
+$s_plugin_SevenZipFiles_exec_env_LANG = 'LANG environment variable (for correct file names listing)';
+$s_plugin_SevenZipFiles_update_configuration = 'Update';
+
+$s_plugin_SevenZipFiles_install_7z_extension = 'System package for 7z must be installed to enable this functionality';
+

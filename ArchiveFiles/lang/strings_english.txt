@@ -1,0 +1,11 @@
+<?php
+
+# Copyright (c) 2012 Alexey Shumkin
+# Licensed under the MIT license
+
+$s_plugin_ArchiveFiles_ = '';
+$s_plugin_ArchiveFiles_title = 'Archive attachments Core';
+$s_plugin_ArchiveFiles_description = 'Core plugin to show content of compressed attachments';
+$s_plugin_ArchiveFiles_configuration = 'Configuration';
+$s_plugin_ArchiveFiles_update_configuration = 'Update';
+$s_plugin_ArchiveFiles_view_threshold = 'Threshold to view content of compressed files';

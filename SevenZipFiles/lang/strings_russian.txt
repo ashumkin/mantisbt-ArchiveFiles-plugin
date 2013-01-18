@@ -1,0 +1,15 @@
+<?php
+
+# Copyright (c) 2012 Alexey Shumkin
+# Licensed under the MIT license
+
+$s_plugin_SevenZipFiles_ = '';
+$s_plugin_SevenZipFiles_title = 'Показ содержимого .7z-архивов';
+$s_plugin_SevenZipFiles_description = 'Показ содержимого 7z-архивированных вложенных файлов';
+$s_plugin_SevenZipFiles_configuration = 'Конфигурация';
+$s_plugin_SevenZipFiles_exec_path = 'Путь к программе распаковщику 7z-архивов (7za)';
+$s_plugin_SevenZipFiles_exec_env_LANG = 'Переменная окружения LANG (для корректного отображения имён файлов)';
+$s_plugin_SevenZipFiles_update_configuration = 'Обновить';
+
+$s_plugin_SevenZipFiles_install_7z_extension = 'Для использования этой возможности должнен быть установлен пакет для работы с 7z-архивами.';
+
